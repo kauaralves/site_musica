@@ -121,7 +121,7 @@ html{
 }
 
 .white-section div{
-    margin-top: 8%;
+    margin-top: 11%;
 }
 
 .white-section h1{
@@ -138,4 +138,16 @@ html{
     font-size: 17px;
     margin-top: 30px;
     max-width: 100%;
+}
+
+.grid{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.grid img{
+    width: 300px;
+    margin: auto;
+    padding-bottom: 15px;
 }

@@ -73,6 +73,27 @@
         visibility: hidden;
         display: none;
     }
+
+    .grid{
+        text-align: center;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    
+    .grid img{
+        width: 300px;
+        margin: auto;
+        padding-bottom: 15px;
+    }
+
+    .grid-content2 img{
+        visibility: hidden;
+        display: none;
+    }
+
+    .grid-content2{
+        grid-template-columns: 1fr;
+    }
 }
 
 @media screen and (max-width: 414px){
@@ -149,6 +170,27 @@
     .grid-content img{
         visibility: hidden;
         display: none;
+    }
+
+    .grid{
+        text-align: center;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    
+    .grid img{
+        width: 300px;
+        margin: auto;
+        padding-bottom: 15px;
+    }
+
+    .grid-content2 img{
+        visibility: hidden;
+        display: none;
+    }
+
+    .grid-content2{
+        grid-template-columns: 1fr;
     }
 }
 
@@ -227,6 +269,27 @@
         visibility: hidden;
         display: none;
     }
+
+    .grid{
+        text-align: center;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    
+    .grid img{
+        width: 300px;
+        margin: auto;
+        padding-bottom: 15px;
+    }
+
+    .grid-content2 img{
+        visibility: hidden;
+        display: none;
+    }
+
+    .grid-content2{
+        grid-template-columns: 1fr;
+    }
 }
 
 @media screen and (max-width: 393px){
@@ -303,6 +366,27 @@
     .grid-content img{
         visibility: hidden;
         display: none;
+    }
+
+    .grid{
+        text-align: center;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    
+    .grid img{
+        width: 300px;
+        margin: auto;
+        padding-bottom: 15px;
+    }
+
+    .grid-content2 img{
+        visibility: hidden;
+        display: none;
+    }
+
+    .grid-content2{
+        grid-template-columns: 1fr;
     }
 }
 
@@ -381,6 +465,27 @@
         visibility: hidden;
         display: none;
     }
+
+    .grid{
+        text-align: center;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    
+    .grid img{
+        width: 300px;
+        margin: auto;
+        padding-bottom: 15px;
+    }
+
+    .grid-content2 img{
+        visibility: hidden;
+        display: none;
+    }
+
+    .grid-content2{
+        grid-template-columns: 1fr;
+    }
 }
 
 @media screen and (max-width: 820px){
@@ -458,6 +563,22 @@
         padding-right: 20px;
         height: 400px;
     }
+
+    .grid{
+        text-align: center;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    
+    .grid img{
+        width: 300px;
+        margin: auto;
+        padding-bottom: 15px;
+    }
+
+    .grid-content2{
+        grid-template-columns: 1fr;
+    }
 }
 
 @media screen and (max-width: 540px){
@@ -534,6 +655,27 @@
     .grid-content img{
         visibility: hidden;
         display: none;
+    }
+
+    .grid{
+        text-align: center;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    
+    .grid img{
+        width: 300px;
+        margin: auto;
+        padding-bottom: 15px;
+    }
+
+    .grid-content2 img{
+        visibility: hidden;
+        display: none;
+    }
+
+    .grid-content2{
+        grid-template-columns: 1fr;
     }
 }
 
@@ -627,6 +769,27 @@
         font-size: 17px;
         margin-top: 30px;
         max-width: 100%;
+    }
+
+    .grid{
+        text-align: center;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    
+    .grid img{
+        width: 300px;
+        margin: auto;
+        padding-bottom: 15px;
+    }
+
+    .grid-content2 img{
+        visibility: hidden;
+        display: none;
+    }
+
+    .grid-content2{
+        grid-template-columns: 1fr;
     }
 }
 
@@ -723,5 +886,26 @@
         font-size: 17px;
         margin-top: 30px;
         max-width: 100%;
+    }
+
+    .grid{
+        text-align: center;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    
+    .grid img{
+        width: 300px;
+        margin: auto;
+        padding-bottom: 15px;
+    }
+
+    .grid-content2 img{
+        visibility: hidden;
+        display: none;
+    }
+
+    .grid-content2{
+        grid-template-columns: 1fr;
     }
 }
