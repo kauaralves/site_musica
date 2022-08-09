@@ -144,6 +144,8 @@ html{
     text-align: center;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    margin-bottom: 95px;
+    margin-top: -95px;
 }
 
 .grid img{
